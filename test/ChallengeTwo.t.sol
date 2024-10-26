@@ -62,4 +62,4 @@ contract ChallengeTwoTest is Test {
     }
 }
 
-// forge test --fork-url https://eth-sepolia.g.alchemy.com/v2/LrkhFSu3bBohSwv582_aYUVdsKgh45K3 --match-path test/ChallengeTwo.t.sol -vvvv
+// forge test --fork-url https://eth-sepolia.g.alchemy.com/v2/ --match-path test/ChallengeTwo.t.sol -vvvv
